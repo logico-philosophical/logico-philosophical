@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Profile picture](https://www.eso.org/public/usa/images/uhd_9428_panorama/) credit: [Y. Beletsky](https://www.facebook.com/yuribeletskyphoto) (LCO)/ESO.
+[Profile picture](https://www.eso.org/public/images/uhd_9428_panorama/) credit: [Y. Beletsky](https://www.facebook.com/yuribeletskyphoto) (LCO)/ESO.
